@@ -1,8 +1,8 @@
 # Hi👋, I'm Subash Tamang
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subash-tamang2/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com](https://vercel.com/subash-tamangs-projects/portfolio-frontend))
 
 ---
 
@@ -14,9 +14,9 @@ I love solving problems, learning new technologies, and contributing to **open-s
 ---
 
 ## Skills
-**Front-end:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Material UI  
+**Front-end:** HTML, CSS, JavaScript,TypeScript, React.js, Tailwind CSS, Material UI,Chakra UI  
 **Version Control:** Git, GitHub  
-**Tools & Platforms:** VS Code, Figma, Postman, Netlify  
+**Tools & Platforms:** VS Code, Figma, Postman 
 
 ---
 
@@ -33,10 +33,7 @@ I love solving problems, learning new technologies, and contributing to **open-s
 - **Features:** Resume section, projects showcase, contact form
 - [GitHub Repo](https://github.com/SubashTamang/portfolio)
 
-### 2. **Movie App**
-- **Technologies:** JavaScript, Node.js, Express, MongoDB
-- **Features:** CRUD operations, dynamic UI, responsive design
-- [GitHub Repo](https://github.com/SubashTamang/movie-app)
+
 
 ### 3. **EDU Meeting Dynamic School Website**
 - **Technologies:** React.js, MongoDB, Tailwind CSS
@@ -46,9 +43,9 @@ I love solving problems, learning new technologies, and contributing to **open-s
 ---
 
 ## Contact Me
-- 📧 Email: your-email@gmail.com  
-- 📱 Phone: +977 9813464290  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: lamasubaah2@gmail.com  
+- 📱 Phone: +977 9765577682 
+- 🌐 Portfolio:https://portfolio-frontend-one-eta.vercel.app/
 
 ---
 
