@@ -1,7 +1,6 @@
 # Hi👋, I'm Subash Tamang
 
-[![LinkedIn]([https://img.shields.io/badge/https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subash-tamang2/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subash-tamang2/))
 [![Portfolio](https://yourportfolio.com](https://vercel.com/subash-tamangs-projects/portfolio-frontend)
 
 ---
