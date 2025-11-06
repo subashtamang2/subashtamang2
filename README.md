@@ -1,21 +1,22 @@
-# Hi👋, I'm Subash Tamang
+# Hi 👋, I'm Subash Tamang
 
-[![LinkedIn](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subash-tamang2/))
-[![Portfolio](https://yourportfolio.com](https://vercel.com/subash-tamangs-projects/portfolio-frontend)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-tamang2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://portfolio-frontend-one-eta.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamasubaah2@gmail.com)
 
 ---
 
 ## About Me
 I am a **Front-End Developer** passionate about building **beautiful, responsive, and user-friendly web applications**.  
-I specialize in **React.js, HTML, CSS, and JavaScript**, creating seamless user experiences and interactive interfaces.  
+I specialize in **React.js, HTML, CSS, JavaScript, and TypeScript**, creating seamless user experiences and interactive interfaces.  
 I love solving problems, learning new technologies, and contributing to **open-source projects**.
 
 ---
 
 ## Skills
-**Front-end:** HTML, CSS, JavaScript,TypeScript, React.js, Tailwind CSS, Material UI,Chakra UI  
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS, Material UI, Chakra UI  
 **Version Control:** Git, GitHub  
-**Tools & Platforms:** VS Code, Figma, Postman 
+**Tools & Platforms:** VS Code, Figma, Postman  
 
 ---
 
@@ -33,7 +34,6 @@ I love solving problems, learning new technologies, and contributing to **open-s
 - [GitHub Repo](https://github.com/SubashTamang/portfolio)
 
 
-
 ### 3. **EDU Meeting Dynamic School Website**
 - **Technologies:** React.js, MongoDB, Tailwind CSS
 - **Features:** Manage meetings, courses, and applications dynamically
@@ -43,10 +43,9 @@ I love solving problems, learning new technologies, and contributing to **open-s
 
 ## Contact Me
 - 📧 Email: lamasubaah2@gmail.com  
-- 📱 Phone: +977 9765577682 
-- 🌐 Portfolio:https://portfolio-frontend-one-eta.vercel.app/
+- 📱 Phone: +977 9765577682  
+- 🌐 Portfolio: [portfolio-frontend](https://portfolio-frontend-one-eta.vercel.app/)
 
 ---
 
 ### Let's Connect and Build Amazing Front-End Projects Together! 🚀
-
