@@ -23,7 +23,7 @@ I love solving problems, learning new technologies, and contributing to **open-s
 ## GitHub Stats
 [![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubashTamang&show_icons=true&theme=radical&count_private=true)](https://github.com/SubashTamang)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubashTamang&layout=compact&theme=radical)](https://github.com/SubashTamang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubashTamang&layout=compact&theme=radical&count_private=true)](https://github.com/SubashTamang)
 
 ---
 
